@@ -17,10 +17,11 @@ Encoding the 16-Bits Input Data into 20-Bits Output Data, and Decoding 20-Bits I
 # FPGA Ultilization
 The Ultilization was measure for Xilinx ZCU104 FPGA as follows: 
 ## Encoder and Decoder (16B/20B)
-|    Modules       | LUTs |    FFs   |
-|------------------|------|----------|
-| Encoder_16B20B.v | 31   |     42   |
-| Decoder_20B16B.v | 58   |     40   |
+|    Modules                   | LUTs |    FFs   |
+|------------------------------|------|----------|
+| Encoder_16B20B.v             | 31   |     42   |
+| Decoder_20B16B.v             | 58   |     40   |
+| Top_Encoder_Decoder_16B20B.v | 95   |     82   |
 # Contact
 - Thaising Taing: thaisingtaing@chungbuk.ac.kr
 # References
