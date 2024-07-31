@@ -6,7 +6,7 @@ Encoding the 16-Bits Input Data into 20-Bits Output Data, and Decoding 20-Bits I
 - **ena**: To validate datain and register dataout and disparity
 - **K**: Control (K) input (active high)
 - **Din**: 16-bits input data
-- **Dout**: 20 bit encoded output
+- **Dout**: 20-bits Encoded Output
 ## Decoder
 - **clk**: Clock to register output and disparity
 - **rst**: Active High Reset
