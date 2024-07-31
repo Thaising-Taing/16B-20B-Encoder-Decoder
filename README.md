@@ -21,6 +21,8 @@ The Ultilization was measure for Xilinx ZCU104 FPGA as follows:
 |------------------|------|----------|
 | Encoder_16B20B.v | 31   |     42   |
 | Decoder_20B16B.v | 58   |     40   |
+# Contact
+- Thaising Taing: thaisingtaing@chungbuk.ac.kr
 # References
 - [8b10b_VHDL](https://github.com/fransschreuder/8b10b_VHDL): Details of the Verilog Design of 8B/10B Encoder/Decoder in VHDL.
 - [Design of a 16b/20b Encoder/Decoder Using a CoolRunner XPLA3 CPLD] (https://www.cs.york.ac.uk/rts/docs/Xilinx-datasource-2003-q1/appnotes/xapp336.pdf): Guideline for 16B/20B Encoder-Decoder
