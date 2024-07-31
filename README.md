@@ -3,3 +3,4 @@ Encoding the 16-Bits Input Data into 20-Bits Output Data, and Decoding 20-Bits I
 ## Encoder
 ## Decoder
 # References
+- [8b10b_VHDL](https://github.com/fransschreuder/8b10b_VHDL): Details of the Verilog Design of 8B/10B Encoder/Decoder in VHDL.
